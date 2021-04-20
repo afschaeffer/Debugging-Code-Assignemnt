@@ -1,4 +1,5 @@
 # Below is a simple program with 10 issues (some are syntax errors and some are logic errors.  You need to identify the issues and correct them.
+# In this program, I took the initial file and fixed the bugs. All changes are notated.
 # Peer Editor: Amy Schaeffer
 # Review Date: 05/10/2020
 
